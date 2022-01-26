@@ -6,7 +6,7 @@
 Technologies/Languages:
 ### ASP .NET Core, Typesript & GraphQL
 
-<img src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" alt=".NET" width="100" height="100"/> <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" alt="Typescript" width="100" height="100"/> 
+<img src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" alt=".NET" width="100" height="100"/> <img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" alt="Typescript" width="100" height="100" margin-left="10px"/> 
 
 ---
 
