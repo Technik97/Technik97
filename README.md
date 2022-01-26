@@ -1,7 +1,5 @@
 ### Hey! This is Aniket Mane, Backend Developer from Pune, India
 
-
-
 ---
 Technologies/Languages:
 ### ASP .NET Core, Typesript, GraphQL, Node.js & Postgres
