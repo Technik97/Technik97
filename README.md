@@ -15,10 +15,7 @@ Technologies/Languages:
 Currently learning:
 ### Rust, Elixir, Ruby & Azure
 
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="75" height="75"/>
-<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="75" height="75"/>
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby" width="75" height="75"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="75" height="75"/>
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="75" height="75"/><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="75" height="75"/><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby" width="75" height="75"/><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="75" height="75"/>
 
 ---
 
