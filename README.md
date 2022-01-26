@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Technik97/Technik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# Hey this is Aniket Mane, Backend Developer from Pune, India.
+Hey this is Aniket Mane, Backend Developer from Pune, India.
 
 - 🔭 I’m currently using technologies like ASP .NET core, Typescript and GraphQL
 
----
 
 ## &#x1f4c8; My GitHub Stats
 
