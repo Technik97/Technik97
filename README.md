@@ -11,6 +11,14 @@ Technologies/Languages:
 
 ---
 
+---
+Currently learning:
+### Rust, Elixir, Ruby & Azure
+
+<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt=".NET" width="75" height="75"/>
+
+---
+
 
 ## &#x1f4c8; My GitHub Stats
 
