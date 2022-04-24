@@ -1,10 +1,3 @@
-### Hey! This is Aniket Mane, Backend Developer from Pune, India
-
----
-Technologies/Languages:
-### ASP .NET Core, Typesript, GraphQL, Node.js & Postgres
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Technik97&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
