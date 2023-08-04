@@ -1,4 +1,6 @@
-<b>I do coding when I'm not procrastinating. <br>
+### <b>I do coding when I'm not procrastinating.</b> 
+---
+
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
@@ -19,6 +21,10 @@
     ![Postgres](https://img.shields.io/static/v1?style=for-the-badge&message=Postgres&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
     ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
     ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
+
+- ## Version Controls & CI/CD
+    ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+    ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 - ## Other
     ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
