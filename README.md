@@ -5,7 +5,7 @@ I do coding when I'm not procrastinating. <br>
 - ## Languages
     ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
     ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
-    ![TypeScript](https://img.shields.io/badge/TypeScript*-3178C6?logo=typescript&logoColor=fff&style=flat)
+    ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
     ![Elixir](https://img.shields.io/static/v1?style=for-the-badge&message=Elixir&color=4B275F&logo=Elixir&logoColor=FFFFFF&label=)
     ![Elm](https://img.shields.io/static/v1?style=for-the-badge&message=Elm&color=1293D8&logo=Elm&logoColor=FFFFFF&label=)
 
@@ -16,8 +16,8 @@ I do coding when I'm not procrastinating. <br>
     ![Phoenix Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Phoenix+Framework&color=FD4F00&logo=Phoenix+Framework&logoColor=FFFFFF&label=)
 
 - ## Databases      
-    ![Postgres Badge](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white&style=flat)
-    ![Redis Badge](https://img.shields.io/badge/Redis*-%23DD0031.svg?&logo=redis&logoColor=white&style=flat)
+    ![Postgres](https://img.shields.io/static/v1?style=for-the-badge&message=Postgres&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+    ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
     ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 
 
